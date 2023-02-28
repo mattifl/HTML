@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Matti's nye PC-Setup</title>
+</head>
+
+<body>
+    <ulclass="flexContainer"><li><ahref="index.html">Home</a></li>
+    <li><a href="computer2.html">CPU</a></li>
+    <li><a href="computer3.html">Motherboard</a></li>
+    <li><a href="computer3.html">RAM</a></li>
+    <li><a href="computer3.html">GPU</a></li>
+    
+</ul>
+<h1>Mattis PC BUILD</h1>
+<div class="imgContainer">
+<img src="img/amd.jpg"class="responsiveImg">
+<br>
+<br>
+<p>AMD Ryzen 7 5700X</p>
+<p>We have with us for review the AMD Ryzen 7 5700X eight-core processor. Based on the "Zen 3" architecture and popular AMD Socket AM4, the Ryzen 7 5700X is part of the company's Spring/Summer desktop processor product-stack refresh to a series that's been around for almost a year and a half now. Much like the Ryzen 7 5800X. the Ryzen 7 5700X is an 8-core/16-thread processor, but with slightly lower clock speeds and a more affordable price, of course.
+The Ryzen 7 5700X succeeds popular SKUs from AMD, such as the Ryzen 7 2700X and Ryzen 7 3700X. The Ryzen 7 3700X in particular outsold the Ryzen 7 3800X thanks to its $50–70 lower price. This is probably why AMD didn't debut the Ryzen 5000 series with the Ryzen 7 5700X and instead released the $400 Ryzen 7 5800X, which had near free reign until the Summer of 2021, when AMD refreshed the lineup with the $360 Ryzen 7 5700G 8-core/16-thread APU marketed as a Ryzen 7 3700X-successor. Strangely, the company designated that role to the Ryzen 7 5700X in 2022.<p>
+<div>
+</body>
+</html>
